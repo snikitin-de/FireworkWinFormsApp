@@ -27,7 +27,7 @@
 
 ### Архитектура
 
-![Структура каталога решения](https://github.com/snikitin-de/FireworkWinFormsApp/assets/25394427/a002758e-5a33-444c-ab49-2a2e9864c5cf)
+![Структура каталога решения](https://github.com/snikitin-de/FireworkWinFormsApp/assets/25394427/0b2df902-35cb-4f1e-9cc7-3ff952e3d626)
 
 Проект "Common" является общей библиотекой классов для следующих проектов:
 
